@@ -306,6 +306,13 @@ AndroidMainfest.xml
 ```
 # OUTPUT:
 
+
+
+
+
+
+
+
 ![image](https://github.com/ssnithyaasri/EX_5_SIMPLE-CALCULATOR_GIT/assets/119122478/efa1f189-bab3-4d8b-9e21-4bbb20c8797c)
 # RESULT:
 Result:
